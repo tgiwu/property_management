@@ -2,3 +2,5 @@ target_month: 6
 target_year: 2026
 conbine: 1
 att_folder: "input"
+output_folder: "output"
+target_dept: "千千康润"

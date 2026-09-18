@@ -13,6 +13,8 @@ type Config struct {
 	TargetYear  int    `yaml:"target_year"`
 	Conbine     int    `yaml:"conbine"`
 	AttFolder   string `yaml:"att_folder"`
+	OutputFolder string `yaml:"output_folder"`
+	TargetDept  string `yaml:"target_dept"`
 }
 
 var mConfig *Config
