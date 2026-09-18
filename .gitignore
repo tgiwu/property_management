@@ -3,3 +3,5 @@ go.mod
 go.sum
 ./input/*.xlsx
 ./input/*.xls
+
+./output/*
